@@ -1,0 +1,42 @@
+body {
+    color:rgb(0, 0, 0);
+    background-color: rgb(247, 193, 193);
+    margin: 50px;
+}
+#ID1 {
+    border: 10px double #ff8787;
+    margin: 15;
+    -webkit-box-shadow: 1px 5px 24px 8px rgba(255,133,133,0.88); 
+    box-shadow: 1px 5px 24px 8px rgba(255,133,133,0.88);
+}
+#ID2 {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(122, 122, 122) 4px 3px 0px;
+    margin: 0;
+}
+#ID3 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 28px;
+    letter-spacing: -2px;
+    word-spacing: -0.4px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    margin-bottom: 10;
+}
+#ID4 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 18px;
+    letter-spacing: 0.2px;
+    word-spacing: 0.4px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: none;
+}
